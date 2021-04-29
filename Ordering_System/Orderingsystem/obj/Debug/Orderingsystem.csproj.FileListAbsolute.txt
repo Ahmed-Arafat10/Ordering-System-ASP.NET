@@ -1,0 +1,118 @@
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\Orderingsystem.dll.config
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\Orderingsystem.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\Orderingsystem.pdb
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csc.exe
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csc.exe.config
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csc.rsp
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csi.exe
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csi.exe.config
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csi.rsp
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.AppContext.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Console.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.IO.Compression.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Net.Http.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Net.Sockets.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.ValueTuple.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Xml.XPath.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\vbc.exe
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\vbc.exe.config
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\vbc.rsp
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\obj\Debug\Orderingsystem.csprojAssemblyReference.cache
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\obj\Debug\Orderingsystem.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\obj\Debug\Orderingsystem.csproj.CopyComplete
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\obj\Debug\Orderingsystem.dll
+D:\Visual Studio 2019 Projects\Orderingsystem\Orderingsystem\Orderingsystem\obj\Debug\Orderingsystem.pdb
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\Orderingsystem.dll.config
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\Orderingsystem.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\Orderingsystem.pdb
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csc.exe
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csc.exe.config
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csc.rsp
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csi.exe
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csi.exe.config
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\csi.rsp
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.AppContext.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Console.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.IO.Compression.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Net.Http.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Net.Sockets.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.ValueTuple.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Xml.XPath.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\vbc.exe
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\vbc.exe.config
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\vbc.rsp
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\VBCSCompiler.exe
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Orderingsystem\Orderingsystem\Orderingsystem\obj\Debug\Orderingsystem.csprojAssemblyReference.cache
+D:\Orderingsystem\Orderingsystem\Orderingsystem\obj\Debug\Orderingsystem.csproj.CoreCompileInputs.cache
+D:\Orderingsystem\Orderingsystem\Orderingsystem\obj\Debug\Orderingsystem.csproj.CopyComplete
+D:\Orderingsystem\Orderingsystem\Orderingsystem\obj\Debug\Orderingsystem.dll
+D:\Orderingsystem\Orderingsystem\Orderingsystem\obj\Debug\Orderingsystem.pdb
